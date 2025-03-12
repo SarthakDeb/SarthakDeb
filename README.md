@@ -7,4 +7,4 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SarthakDeb&theme=radical)<br>
-🚧 **Current Project:** [Janus](https://github.com/SarthakDeb/JPHISH0)
+🚧 **Current Project:** [JPHISH0](https://github.com/SarthakDeb/JPHISH0)

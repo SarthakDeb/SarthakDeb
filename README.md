@@ -1,4 +1,4 @@
-# IshanSaha
+# Sarthak Deb
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SarthakDeb&show_icons=true">
 
 # 📊GitHub Stats :
